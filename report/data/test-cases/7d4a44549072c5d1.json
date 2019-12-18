@@ -1,0 +1,60 @@
+{
+  "uid" : "7d4a44549072c5d1",
+  "name" : "test_edit_shopping_trolley",
+  "fullName" : "test_demo.TestShoppingTrolley#test_edit_shopping_trolley",
+  "historyId" : "8393366d1667e14f1fd2d3858b19fdb5",
+  "time" : {
+    "start" : 1576478069220,
+    "stop" : 1576478069220,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "购物车功能"
+  }, {
+    "name" : "story",
+    "value" : "修改购物车"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestShoppingTrolley"
+  }, {
+    "name" : "host",
+    "value" : "6CR6110JFK"
+  }, {
+    "name" : "thread",
+    "value" : "13048-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d4a44549072c5d1.json",
+  "parameterValues" : [ ]
+}

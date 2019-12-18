@@ -1,0 +1,131 @@
+[ {
+  "uid" : "3cc0836b6e375106",
+  "name" : "test_search_empty_kw",
+  "time" : {
+    "start" : 1576478240969,
+    "stop" : 1576478240969,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b67bde41645836dd",
+  "name" : "test_search_en",
+  "time" : {
+    "start" : 1576478240455,
+    "stop" : 1576478240455,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "43cfb2057dd52461",
+  "name" : "test_get_index",
+  "time" : {
+    "start" : 1576478069228,
+    "stop" : 1576478069329,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed4fc4c2c83fa339",
+  "name" : "test_add_shopping_trolley",
+  "time" : {
+    "start" : 1576478069212,
+    "stop" : 1576478069216,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5cc4300cb29ef3d5",
+  "name" : "test_delete_shopping_trolley",
+  "time" : {
+    "start" : 1576478069222,
+    "stop" : 1576478069222,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "d77006cc337c96ca",
+  "name" : "test_choice_a_city",
+  "time" : {
+    "start" : 1576478240711,
+    "stop" : 1576478240711,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "63620737f62a71a1",
+  "name" : "test_click_start_btn",
+  "time" : {
+    "start" : 1576478154876,
+    "stop" : 1576478154876,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ea59fb438705ebd2",
+  "name" : "test_silde",
+  "time" : {
+    "start" : 1576478069365,
+    "stop" : 1576478069365,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b146ccd6d913d6d1",
+  "name" : "test_search_kw",
+  "time" : {
+    "start" : 1576478069333,
+    "stop" : 1576478069361,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d4a44549072c5d1",
+  "name" : "test_edit_shopping_trolley",
+  "time" : {
+    "start" : 1576478069220,
+    "stop" : 1576478069220,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81d502fc15345c0",
+  "name" : "test_search_kw",
+  "time" : {
+    "start" : 1576478241046,
+    "stop" : 1576478241046,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "83893f499f43ea4c",
+  "name" : "test_search_chinese",
+  "time" : {
+    "start" : 1576478240182,
+    "stop" : 1576478240182,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "10c58a7d0e4f04f9",
+  "name" : "test_search_kw",
+  "time" : {
+    "start" : 1576478241101,
+    "stop" : 1576478241101,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

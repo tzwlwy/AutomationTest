@@ -1,0 +1,117 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='10.112.162.106', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x087D4510>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "children" : [ {
+        "name" : "test_silde",
+        "uid" : "ea59fb438705ebd2",
+        "parentUid" : "de3813bc75aceee72f009a967486494d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478069365,
+          "stop" : 1576478069365,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de3813bc75aceee72f009a967486494d"
+    }, {
+      "name" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='10.112.162.106', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09350130>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "children" : [ {
+        "name" : "test_click_start_btn",
+        "uid" : "63620737f62a71a1",
+        "parentUid" : "ad44728d7987ef88a2080c20f096ee43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478154876,
+          "stop" : 1576478154876,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_chinese",
+        "uid" : "83893f499f43ea4c",
+        "parentUid" : "ad44728d7987ef88a2080c20f096ee43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478240182,
+          "stop" : 1576478240182,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_en",
+        "uid" : "b67bde41645836dd",
+        "parentUid" : "ad44728d7987ef88a2080c20f096ee43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478240455,
+          "stop" : 1576478240455,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_choice_a_city",
+        "uid" : "d77006cc337c96ca",
+        "parentUid" : "ad44728d7987ef88a2080c20f096ee43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478240711,
+          "stop" : 1576478240711,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad44728d7987ef88a2080c20f096ee43"
+    }, {
+      "name" : "UnicodeDecodeError: 'gbk' codec can't decode byte 0x8d in position 66: illegal multibyte sequence",
+      "children" : [ {
+        "name" : "test_search_empty_kw",
+        "uid" : "3cc0836b6e375106",
+        "parentUid" : "7b4167e063fbd4a60ae0a93443861118",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478240969,
+          "stop" : 1576478240969,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_kw",
+        "uid" : "81d502fc15345c0",
+        "parentUid" : "7b4167e063fbd4a60ae0a93443861118",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478241046,
+          "stop" : 1576478241046,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_kw",
+        "uid" : "10c58a7d0e4f04f9",
+        "parentUid" : "7b4167e063fbd4a60ae0a93443861118",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576478241101,
+          "stop" : 1576478241101,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b4167e063fbd4a60ae0a93443861118"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

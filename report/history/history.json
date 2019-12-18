@@ -1,0 +1,258 @@
+{
+  "c2ebd7778184469ca77d839820415a25" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d77006cc337c96ca",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='10.112.162.106', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09350130>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "time" : {
+        "start" : 1576478240711,
+        "stop" : 1576478240711,
+        "duration" : 0
+      }
+    } ]
+  },
+  "242f70b88d9e473dd16cde6e520eda79" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ed4fc4c2c83fa339",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576478069212,
+        "stop" : 1576478069216,
+        "duration" : 4
+      }
+    } ]
+  },
+  "8393366d1667e14f1fd2d3858b19fdb5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7d4a44549072c5d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576478069220,
+        "stop" : 1576478069220,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ae1d9c99d4556813a9649ee9e0edb91e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5cc4300cb29ef3d5",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: 本次不执行",
+      "time" : {
+        "start" : 1576478069222,
+        "stop" : 1576478069222,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ee9f11a4df94bf1df401c52dfc3a0b4e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "10c58a7d0e4f04f9",
+      "status" : "broken",
+      "statusDetails" : "UnicodeDecodeError: 'gbk' codec can't decode byte 0x8d in position 66: illegal multibyte sequence",
+      "time" : {
+        "start" : 1576478241101,
+        "stop" : 1576478241101,
+        "duration" : 0
+      }
+    } ]
+  },
+  "68d5390afe6ea014fa5af1ea14ff2479" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b67bde41645836dd",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='10.112.162.106', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09350130>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "time" : {
+        "start" : 1576478240455,
+        "stop" : 1576478240455,
+        "duration" : 0
+      }
+    } ]
+  },
+  "359735142af669ae82d3c8e2b209e5b2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "81d502fc15345c0",
+      "status" : "broken",
+      "statusDetails" : "UnicodeDecodeError: 'gbk' codec can't decode byte 0x8d in position 66: illegal multibyte sequence",
+      "time" : {
+        "start" : 1576478241046,
+        "stop" : 1576478241046,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fede27f6ef6c5cc2bbf8a8cebe32cb7b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43cfb2057dd52461",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576478069228,
+        "stop" : 1576478069329,
+        "duration" : 101
+      }
+    } ]
+  },
+  "bc60c884d03e0275864829d5aefe5c71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3cc0836b6e375106",
+      "status" : "broken",
+      "statusDetails" : "UnicodeDecodeError: 'gbk' codec can't decode byte 0x8d in position 66: illegal multibyte sequence",
+      "time" : {
+        "start" : 1576478240969,
+        "stop" : 1576478240969,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7a314fc240ba9fc47908a2d42641a581" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b146ccd6d913d6d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576478069333,
+        "stop" : 1576478069361,
+        "duration" : 28
+      }
+    } ]
+  },
+  "e53580ab31970d89d4efbc9ad811b90f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea59fb438705ebd2",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='10.112.162.106', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x087D4510>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "time" : {
+        "start" : 1576478069365,
+        "stop" : 1576478069365,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7ea7610b1fe7af6f8cb51651d3715920" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63620737f62a71a1",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='10.112.162.106', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09350130>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "time" : {
+        "start" : 1576478154876,
+        "stop" : 1576478154876,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c061e3235f73bf46ddf7cc987326fd2f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83893f499f43ea4c",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='10.112.162.106', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x09350130>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))",
+      "time" : {
+        "start" : 1576478240182,
+        "stop" : 1576478240182,
+        "duration" : 0
+      }
+    } ]
+  }
+}

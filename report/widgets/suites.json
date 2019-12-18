@@ -1,0 +1,47 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "ee0edb22208c7783833ed9e29b01e65a",
+    "name" : "cases.app_ui.android.demoProject",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "8b29f979e9d5f1dc2e13f3079ca4003e",
+    "name" : "cases.web_ui.demoProject",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "84e4fb228aa5651a31b5ca4d2bc531de",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "2e8d5c0d208f563d89b31b337da2d7cc",
+    "name" : "cases.api.demoProject.api",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

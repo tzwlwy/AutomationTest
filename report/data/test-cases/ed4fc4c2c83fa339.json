@@ -1,0 +1,166 @@
+{
+  "uid" : "ed4fc4c2c83fa339",
+  "name" : "test_add_shopping_trolley",
+  "fullName" : "test_demo.TestShoppingTrolley#test_add_shopping_trolley",
+  "historyId" : "242f70b88d9e473dd16cde6e520eda79",
+  "time" : {
+    "start" : 1576478069212,
+    "stop" : 1576478069216,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "用户登录",
+      "time" : {
+        "start" : 1576478069212,
+        "stop" : 1576478069212,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "user",
+        "value" : "'刘春明'"
+      }, {
+        "name" : "pwd",
+        "value" : "'密码'"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "浏览商品",
+      "time" : {
+        "start" : 1576478069212,
+        "stop" : 1576478069215,
+        "duration" : 3
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "98f07589f2d46235",
+        "name" : "刘春明",
+        "source" : "98f07589f2d46235.attach",
+        "type" : "text/plain",
+        "size" : 7
+      }, {
+        "uid" : "8723b71398d71a7e",
+        "name" : "liuchunming",
+        "source" : "8723b71398d71a7e.attach",
+        "type" : "text/plain",
+        "size" : 7
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "点击商品",
+      "time" : {
+        "start" : 1576478069215,
+        "stop" : 1576478069215,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "校验结果",
+      "time" : {
+        "start" : 1576478069215,
+        "stop" : 1576478069216,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3a7dab650fa4004f",
+        "name" : "添加购物车成功",
+        "source" : "3a7dab650fa4004f.attach",
+        "type" : "text/plain",
+        "size" : 12
+      }, {
+        "uid" : "9f23e05d9c06de11",
+        "name" : "添加购物车失败",
+        "source" : "9f23e05d9c06de11.attach",
+        "type" : "text/plain",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "875f67bccd49bcd5",
+      "name" : "stdout",
+      "source" : "875f67bccd49bcd5.txt",
+      "type" : "text/plain",
+      "size" : 17
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "购物车功能"
+  }, {
+    "name" : "story",
+    "value" : "加入购物车"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestShoppingTrolley"
+  }, {
+    "name" : "host",
+    "value" : "6CR6110JFK"
+  }, {
+    "name" : "thread",
+    "value" : "13048-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed4fc4c2c83fa339.json",
+  "parameterValues" : [ ]
+}

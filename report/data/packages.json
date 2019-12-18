@@ -1,0 +1,197 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_demo",
+    "children" : [ {
+      "name" : "test_add_shopping_trolley",
+      "uid" : "ed4fc4c2c83fa339",
+      "parentUid" : "a5a7d4bc94548dd8ccc66e197e09e1cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576478069212,
+        "stop" : 1576478069216,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_edit_shopping_trolley",
+      "uid" : "7d4a44549072c5d1",
+      "parentUid" : "a5a7d4bc94548dd8ccc66e197e09e1cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576478069220,
+        "stop" : 1576478069220,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_delete_shopping_trolley",
+      "uid" : "5cc4300cb29ef3d5",
+      "parentUid" : "a5a7d4bc94548dd8ccc66e197e09e1cd",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1576478069222,
+        "stop" : 1576478069222,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a5a7d4bc94548dd8ccc66e197e09e1cd"
+  }, {
+    "name" : "cases",
+    "children" : [ {
+      "name" : "api.demoProject.api.test_demoProject_login",
+      "children" : [ {
+        "name" : "test_get_index",
+        "uid" : "43cfb2057dd52461",
+        "parentUid" : "84345fb7eacb92513013ba85a512799c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576478069228,
+          "stop" : 1576478069329,
+          "duration" : 101
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_search_kw",
+        "uid" : "b146ccd6d913d6d1",
+        "parentUid" : "84345fb7eacb92513013ba85a512799c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576478069333,
+          "stop" : 1576478069361,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "api.demoProject.api.test_demoProject_login"
+    }, {
+      "name" : "app_ui.android.demoProject",
+      "children" : [ {
+        "name" : "test_index_page",
+        "children" : [ {
+          "name" : "test_silde",
+          "uid" : "ea59fb438705ebd2",
+          "parentUid" : "8d36bae6dd7812615d98eb13e1ccd836",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478069365,
+            "stop" : 1576478069365,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8d36bae6dd7812615d98eb13e1ccd836"
+      }, {
+        "name" : "test_start_page",
+        "children" : [ {
+          "name" : "test_click_start_btn",
+          "uid" : "63620737f62a71a1",
+          "parentUid" : "1de9f949f17665f981b2f04dfd86aa3c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478154876,
+            "stop" : 1576478154876,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_search_chinese",
+          "uid" : "83893f499f43ea4c",
+          "parentUid" : "1de9f949f17665f981b2f04dfd86aa3c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478240182,
+            "stop" : 1576478240182,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_search_en",
+          "uid" : "b67bde41645836dd",
+          "parentUid" : "1de9f949f17665f981b2f04dfd86aa3c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478240455,
+            "stop" : 1576478240455,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_choice_a_city",
+          "uid" : "d77006cc337c96ca",
+          "parentUid" : "1de9f949f17665f981b2f04dfd86aa3c",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478240711,
+            "stop" : 1576478240711,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1de9f949f17665f981b2f04dfd86aa3c"
+      } ],
+      "uid" : "app_ui.android.demoProject"
+    }, {
+      "name" : "web_ui.demoProject",
+      "children" : [ {
+        "name" : "test_demoProject_index",
+        "children" : [ {
+          "name" : "test_search_empty_kw",
+          "uid" : "3cc0836b6e375106",
+          "parentUid" : "cce1e29deddcb34c3784a74403fac226",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478240969,
+            "stop" : 1576478240969,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_search_kw",
+          "uid" : "81d502fc15345c0",
+          "parentUid" : "cce1e29deddcb34c3784a74403fac226",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478241046,
+            "stop" : 1576478241046,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cce1e29deddcb34c3784a74403fac226"
+      }, {
+        "name" : "test_demoProject_search",
+        "children" : [ {
+          "name" : "test_search_kw",
+          "uid" : "10c58a7d0e4f04f9",
+          "parentUid" : "bd9cbde092668db90d2c007ed1134de4",
+          "status" : "broken",
+          "time" : {
+            "start" : 1576478241101,
+            "stop" : 1576478241101,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bd9cbde092668db90d2c007ed1134de4"
+      } ],
+      "uid" : "web_ui.demoProject"
+    } ],
+    "uid" : "d4f25acf57632f6fe40a83cfe70f00b2"
+  } ]
+}

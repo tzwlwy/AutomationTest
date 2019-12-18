@@ -1,0 +1,85 @@
+{
+  "uid" : "43cfb2057dd52461",
+  "name" : "test_get_index",
+  "fullName" : "cases.api.demoProject.api.test_demoProject_login.TestLogin#test_get_index",
+  "historyId" : "fede27f6ef6c5cc2bbf8a8cebe32cb7b",
+  "time" : {
+    "start" : 1576478069228,
+    "stop" : 1576478069329,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1576478069227,
+      "stop" : 1576478069228,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1576478069361,
+      "stop" : 1576478069361,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "cases.api.demoProject.api"
+  }, {
+    "name" : "suite",
+    "value" : "test_demoProject_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "6CR6110JFK"
+  }, {
+    "name" : "thread",
+    "value" : "13048-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "cases.api.demoProject.api.test_demoProject_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "43cfb2057dd52461.json",
+  "parameterValues" : [ ]
+}
